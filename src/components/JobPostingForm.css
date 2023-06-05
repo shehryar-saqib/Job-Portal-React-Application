@@ -1,0 +1,114 @@
+/* body {
+  height: 100vh;
+  margin: 10px;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://media.licdn.com/dms/image/D4E12AQHMAv3yWHEaBA/article-cover_image-shrink_720_1280/0/1678198360721?e=2147483647&v=beta&t=a7hKg0FbDyEANwEHzjNE94Ta6aQ1swKK2mU9FiR5S2Q');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9; 
+  z-index: -1;
+}
+
+.form-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 5px;
+  background-color: white; 
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
+
+  z-index: 1; 
+} */
+
+.jobapp{
+  color: black;
+}
+.outer-container {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://media.licdn.com/dms/image/D4E12AQHMAv3yWHEaBA/article-cover_image-shrink_720_1280/0/1678198360721?e=2147483647&v=beta&t=a7hKg0FbDyEANwEHzjNE94Ta6aQ1swKK2mU9FiR5S2Q');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* z-index: -1; */
+}
+
+
+.form-container {
+  max-width: 500px;
+  margin-left: 35rem;
+  width: 100%;
+  height: 550px; /* Set a fixed height for the form container */
+  margin-top: 20px;
+  padding: 20px;
+  background-color:white ; /* Grey-black color with 80% opacity */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  z-index: 1;
+  overflow-y: auto; /* Enable vertical scrolling for the form */
+}
+
+.form-container h1 {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.form-container .MuiFormControl-root,
+.form-container .MuiCheckbox-root {
+  margin-bottom: 20px;
+}
+
+.form-container .MuiInputLabel-root {
+  font-size: 14px;
+}
+
+.form-container .MuiSelect-root {
+  min-width: 200px;
+}
+
+.form-container .MuiButton-root {
+  margin-top: 20px;
+}
+
+.form-container .MuiCheckbox-root {
+  color: #3f51b5;
+}
+
+.form-container .MuiCheckbox-root:hover .MuiIconButton-label::after {
+  background-color: rgba(63, 81, 181, 0.08);
+}
+
+.form-container .MuiCheckbox-root.Mui-checked .MuiIconButton-label::after {
+  background-color: #3f51b5;
+}
+
+.form-container .MuiFormLabel-root.Mui-focused {
+  color: #3f51b5;
+}
+
+.form-container .MuiInputBase-root.Mui-focused .MuiInputBase-input {
+  border-color: #3f51b5;
+}
+
+.form-container .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #3f51b5;
+}
+
+.form-container .MuiButton-containedPrimary:hover {
+  background-color: #3f51b5;
+}
+
+.form-container .MuiButton-containedPrimary:active {
+  background-color: #2f3a7d;
+}
+

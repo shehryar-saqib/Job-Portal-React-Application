@@ -1,0 +1,260 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "company": "Photosnap",
+      "logo": "https://media.istockphoto.com/id/1349094945/photo/human-using-a-computer-laptop-for-searching-for-job-and-fill-out-personal-data-on-job-website.jpg?b=1&s=170667a&w=0&k=20&c=p_SRXAc7KnjTOB803Xap7irCB8xgiAey1SerMMFj-x8=",
+      "new": true,
+      "featured": true,
+      "position": "Senior Frontend Developer",
+      "role": "Frontend",
+      "level": "Senior",
+      "url": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "postedAt": "1d ago",
+      "contract": "Full Time",
+      "location": "USA Only",
+      "languages": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "tools": []
+    },
+    {
+      "id": 2,
+      "company": "Manage",
+      "logo": "https://wallpapercave.com/wp/wp3592845.jpg",
+      "new": true,
+      "featured": true,
+      "position": "Fullstack Developer",
+      "role": "Fullstack",
+      "level": "Midweight",
+      "url": "https://media.istockphoto.com/id/1312766253/photo/businessman-using-mobile-smartphone-on-global-network-connection-on-investor-and-customer.jpg?b=1&s=170667a&w=0&k=20&c=Jfo_WTD3vLnEaZrFC_TpwxyhHFNSV_EdK45eyjq5HU0=",
+      "postedAt": "1d ago",
+      "contract": "Part Time",
+      "location": "Remote",
+      "languages": [
+        "Python"
+      ],
+      "tools": [
+        "React"
+      ]
+    },
+    {
+      "id": 3,
+      "company": "Account",
+      "logo": "https://media.istockphoto.com/id/1129644198/vector/recruitment-modern-line-design-style-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZBHS-k5azwnflpGW5gRmseB4CxUOpUUmGA3I45mJk9E=",
+      "new": true,
+      "featured": false,
+      "position": "Junior Frontend Developer",
+      "role": "Frontend",
+      "level": "Junior",
+      "postedAt": "2d ago",
+      "url": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "contract": "Part Time",
+      "location": "USA Only",
+      "languages": [
+        "JavaScript"
+      ],
+      "tools": [
+        "React",
+        "Sass"
+      ]
+    },
+    {
+      "id": 4,
+      "company": "MyHome",
+      "logo": "https://media.istockphoto.com/id/1134480086/vector/hiring-agency-candidates-and-job-interview.jpg?s=612x612&w=0&k=20&c=meYldCDkfjkbqi_a64zq9dzu_uhPgbx2-ICadciRZnw=",
+      "new": false,
+      "featured": false,
+      "position": "Junior Frontend Developer",
+      "role": "Frontend",
+      "url": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "level": "Junior",
+      "postedAt": "5d ago",
+      "contract": "Contract",
+      "location": "USA Only",
+      "languages": [
+        "CSS",
+        "JavaScript"
+      ],
+      "tools": []
+    },
+    {
+      "id": 5,
+      "company": "Loop Studios",
+      "logo": "https://media.istockphoto.com/id/1280851017/vector/group-of-business-consultant-standing-on-laptop-in-wireless-technology-online-service-concept.jpg?s=612x612&w=0&k=20&c=k3LCJ1OXZhSLHKO20s_vyHOjJntHWw2kmOkD5PDV-vM=",
+      "new": false,
+      "featured": false,
+      "position": "Software Engineer",
+      "role": "FullStack",
+      "url": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "level": "Midweight",
+      "postedAt": "1w ago",
+      "contract": "Full Time",
+      "location": "Worldwide",
+      "languages": [
+        "JavaScript"
+      ],
+      "tools": [
+        "Ruby",
+        "Sass"
+      ]
+    },
+    {
+      "id": 6,
+      "company": "FaceIt",
+      "logo": "https://media.istockphoto.com/id/1310275599/vector/hr-agency-applicants-queue-for-consideration-people-group-of-resume-background-candidates.jpg?s=612x612&w=0&k=20&c=LBCQhMkIYRHCGuQTBk9q7vl_weQBkkGh9JepL7Mgb_Q=",
+      "new": false,
+      "featured": false,
+      "position": "Junior Backend Developer",
+      "role": "Backend",
+      "level": "Junior",
+      "postedAt": "2w ago",
+      "contract": "Full Time",
+      "url": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "location": "UK Only",
+      "languages": [
+        "Ruby"
+      ],
+      "tools": [
+        "RoR"
+      ]
+    },
+    {
+      "id": 7,
+      "company": "Shortly",
+      "logo": "https://t4.ftcdn.net/jpg/05/60/02/91/360_F_560029123_7e5ovbRvnZnIg85HW8Kg305PhJiNZDcv.jpg",
+      "new": false,
+      "featured": false,
+      "position": "Junior Developer",
+      "url": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "role": "Frontend",
+      "level": "Junior",
+      "postedAt": "2w ago",
+      "contract": "Full Time",
+      "location": "Worldwide",
+      "languages": [
+        "HTML",
+        "JavaScript"
+      ],
+      "tools": [
+        "Sass"
+      ]
+    },
+    {
+      "id": 8,
+      "company": "Insure",
+      "logo": "https://cutewallpaper.org/22/google-backgrounds-images/34077138.jpg",
+      "new": false,
+      "featured": false,
+      "position": "Junior Frontend Developer",
+      "role": "Frontend",
+      "level": "Junior",
+      "url": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "postedAt": "2w ago",
+      "contract": "Full Time",
+      "location": "USA Only",
+      "languages": [
+        "JavaScript"
+      ],
+      "tools": [
+        "Vue",
+        "Sass"
+      ]
+    },
+    {
+      "id": 9,
+      "company": "Eyecam Co.",
+      "logo": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "new": false,
+      "featured": false,
+      "position": "Full Stack Engineer",
+      "role": "Fullstack",
+      "level": "Midweight",
+      "url": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "postedAt": "3w ago",
+      "contract": "Full Time",
+      "location": "Worldwide",
+      "languages": [
+        "JavaScript",
+        "Python"
+      ],
+      "tools": [
+        "Django"
+      ]
+    },
+    {
+      "id": 10,
+      "company": "The Air Filter Company",
+      "logo": "https://t3.ftcdn.net/jpg/05/34/46/14/360_F_534461438_vtBGqYwCRJMfbezJ5kwBR9NV9Yd4NdFW.jpg",
+      "new": false,
+      "featured": false,
+      "position": "Front-end Dev",
+      "role": "Frontend",
+      "level": "Junior",
+      "url": "https://wallpapercave.com/wp/wp3031318.jpg",
+      "postedAt": "1mo ago",
+      "contract": "Part Time",
+      "location": "Worldwide",
+      "languages": [
+        "JavaScript"
+      ],
+      "tools": [
+        "React",
+        "Sass"
+      ]
+    },
+    {
+      "company": "dsadasd",
+      "jobTitle": "esfes",
+      "logo": "https://media.istockphoto.com/id/1312766253/photo/businessman-using-mobile-smartphone-on-global-network-connection-on-investor-and-customer.jpg?b=1&s=170667a&w=0&k=20&c=Jfo_WTD3vLnEaZrFC_TpwxyhHFNSV_EdK45eyjq5HU0=",
+      "new": true,
+      "featured": true,
+      "position": "ads",
+      "role": "Full Time",
+      "level": "Full Time",
+      "url": "",
+      "datePosted": "awd",
+      "contract": "Full Time",
+      "location": "USA Only",
+      "languages": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "tools": [
+        "React",
+        "Django",
+        "Sass"
+      ],
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "Maaz Ahmed",
+      "email": "maaz0868@gmail.com",
+      "password": "password",
+      "joblist": [
+        1,
+        2,
+        12,
+        12
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "aislam@gmail.com",
+      "password": "password",
+      "joblist": [
+        2,
+        2,
+        11,
+        11
+      ],
+      "id": 4
+    }
+  ]
+}
